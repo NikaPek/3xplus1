@@ -40,7 +40,7 @@ if (empty($_POST['skaicius1'])) {
 }
 
 ?>
-
+<!--komentras github testavimas-->
 <!DOCTYPE html>
 <html>
 <body>
